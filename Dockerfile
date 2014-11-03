@@ -1,1 +1,1 @@
-trusty/Dockerfile
+wheezy/Dockerfile
